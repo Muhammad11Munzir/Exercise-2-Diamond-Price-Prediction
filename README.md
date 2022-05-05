@@ -20,7 +20,7 @@ The model are tested with test data. The evaluation result is shown in figure be
 
 The model is also used to made prediction with test data. A graph of prediction vs label is plotted, as shown in the image below.
 
-![result](image/graph prediction.png)
+![result](image/graph of prediction.png)
 
 Based on the graph, a clear trendline of y=x can be seen, indicating the predictions are fairly similar as labels. However, several outliers can be seen in the graph.
 
