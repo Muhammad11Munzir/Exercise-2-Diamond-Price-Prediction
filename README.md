@@ -16,11 +16,11 @@ The dataset is obtained from [Diamonds dataset](https://www.kaggle.com/datasets/
 ## 4. Results
 The model are tested with test data. The evaluation result is shown in figure below.
 
-![test_result](image/result test.png)
+![result_test](image/result_test.png)
 
 The model is also used to made prediction with test data. A graph of prediction vs label is plotted, as shown in the image below.
 
-![result](image/graph of prediction.png)
+![result](image/graph_prediction.png)
 
 Based on the graph, a clear trendline of y=x can be seen, indicating the predictions are fairly similar as labels. However, several outliers can be seen in the graph.
 
